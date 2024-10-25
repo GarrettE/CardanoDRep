@@ -1,5 +1,5 @@
 
-# Cardano Business Use Case
+# Aunthentic Texas Wine Use Case
 
 ## **1. Introduction**
 
