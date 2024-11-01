@@ -1,8 +1,8 @@
-# Repository: 'Cardano DRep Manifesto'
+# Repository: 'Cardano DRep'
 
 ## Description
 
-This repository contains the manifesto of a Delegated Representative (DRep) candidate for the Cardano blockchain. The manifesto outlines the candidate's vision, mission, and proposed initiatives to drive real-world impact, enhance community engagement, and champion digital individual rights. It also includes detailed use cases and project proposals that leverage Cardano's technology to address pressing challenges and deliver innovative solutions.
+This repository contains the manifesto of Garrett Edmondson a Delegated Representative (DRep) candidate for the Cardano blockchain. The manifesto outlines the his vision, mission, and proposed initiatives to drive real-world impact, enhance community engagement, and champion digital individual rights. It also includes detailed use cases and project proposals that leverage Cardano's technology to address pressing challenges and deliver innovative solutions.
 
 ## Table of Contents
 
@@ -34,7 +34,7 @@ git clone
 
 ## Usage
 
-The manifesto provides a comprehensive overview of the candidate's platform, initiatives, and proposed projects. It serves as a guide for voters and community members to understand the candidate's vision and contributions to the Cardano ecosystem.
+The manifesto provides a comprehensive overview of the DReps's platform, initiatives, and proposed projects. It serves as a guide for voters and community members to understand the candidate's vision and contributions to the Cardano ecosystem.
 
 ## Contributing
 
