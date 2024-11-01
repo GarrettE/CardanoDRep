@@ -6,11 +6,11 @@ As a longstanding member of the Cardano community and operator of the AzureADA s
 
 ## Vision
 
-To harness the power of Cardano's blockchain to deliver impactful projects that address real-world challenges, enhance user engagement in governance, and uphold the rights of individuals in the digital age.
+To harness the power of Cardano's blockchain to deliver impactful projects that address real-world challenges, enhance user engagemenbet in governance, and uphold the rights of individuals in the digital age.
 
 ## Generative AI and Cardano
 
-As a generative AI developer and Cardano DRep, I am most interested in leveraging blockchain technology to improve the world. One of the most pressing challenges we face today is the erosion of trust in institutions and governance, exacerbated by the rise of generative AI technologies. I stronngly believe that blockchain Cardano's blockchain can be utilized to prove the authenticity of human-generated content and information. For more information, please refer to the [The Generative AI Threat](/Use_Cases/Gen_AI_Threat.md)
+As a generative AI developer and Cardano DRep, I am most interested in leveraging blockchain technology to improve the world. One of the most pressing challenges we face today is the erosion of trust in institutions and governance, exacerbated by the rise of generative AI technologies. I strongly believe that Cardano the best solution to prove the authenticity of human-generated content and information. For more information, please refer to the [The Generative AI Threat](/Use_Cases/Gen_AI_Threat.md)
 
 ## Mission
 
