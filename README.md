@@ -1,4 +1,4 @@
-# Repository: 'Cardano DRep'
+# Repository: Cardano DRep
 
 ## Description
 
