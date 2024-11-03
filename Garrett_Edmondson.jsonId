@@ -1,0 +1,96 @@
+{
+  "@context": {
+    "@language": "en-us",
+    "CIP100": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0100/README.md#",
+    "CIP119": "https://github.com/cardano-foundation/CIPs/blob/master/CIP-0119/README.md#",
+    "hashAlgorithm": "CIP100:hashAlgorithm",
+    "body": {
+      "@id": "CIP119:body",
+      "@context": {
+        "references": {
+          "@id": "CIP119:references",
+          "@container": "@set",
+          "@context": {
+            "GovernanceMetadata": "CIP100:GovernanceMetadataReference",
+            "Identity": "CIP119:IdentityReference",
+            "Link": "CIP119:LinkReference",
+            "Other": "CIP100:OtherReference",
+            "label": "CIP100:reference-label",
+            "uri": "CIP100:reference-uri",
+            "referenceHash": {
+              "@id": "CIP119:referenceHash",
+              "@context": {
+                "hashDigest": "CIP119:hashDigest",
+                "hashAlgorithm": "CIP100:hashAlgorithm"
+              }
+            }
+          }
+        },
+        "paymentAddress": "CIP119:paymentAddress",
+        "givenName": "CIP119:givenName",
+        "image": "CIP119:image",
+        "objectives": "CIP119:objectives",
+        "motivations": "CIP119:motivations",
+        "qualifications": "CIP119:qualifications",
+        "doNotList": "CIP119:doNotList"
+      }
+    },
+    "authors": {
+      "@id": "CIP100:authors",
+      "@container": "@set",
+      "@context": {
+        "name": "http://xmlns.com/foaf/0.1/name",
+        "witness": {
+          "@id": "CIP100:witness",
+          "@context": {
+            "witnessAlgorithm": "CIP100:witnessAlgorithm",
+            "publicKey": "CIP100:publicKey",
+            "signature": "CIP100:signature"
+          }
+        }
+      }
+    }
+  },
+  "authors": [],
+  "hashAlgorithm": {
+    "@value": "blake2b-256"
+  },
+  "body": {
+    "doNotList": false,
+    "givenName": {
+      "@value": "Garrett_Edmondson"
+    },
+    "motivations": {
+      "@value": "As a Generative AI Developer and Cardano DRep, I am most interested in leveraging blockchain technology to improve the world. One of the most pressing challenges we face today is the erosion of trust in institutions and governance, exacerbated by the rise of generative AI technologies. I strongly believe that Cardano the best solution to prove the authenticity of human-generated content and information."
+    },
+    "objectives": {
+      "@value": "As a longstanding member of the Cardano community and operator of the AzureADA stake pool since 2020, I have witnessed the incredible growth and potential of our ecosystem. Today, I stand as a Delegated Representative (DRep) candidate, committed to leveraging Cardano’s technology to drive real-world impact, improve community engagement, and champion digital individual rights."
+    },
+    "paymentAddress": {
+      "@value": "addr1q9s4s65qha7k8jd6zxneannvx5y3z6r0mk2rd4hte8z87p97ylzdpejtrgm4s8nmj6xx0haqracmaxf3mdf6kgctlnfsje7hhq"
+    },
+    "qualifications": {
+      "@value": "Stake Pool Operator - AzureAda\nEmurgo Certified: Blockchain Business Consultant"
+    },
+    "references": [
+      {
+        "@type": "Link",
+        "label": {
+          "@value": "AzureAda Stake Pool"
+        },
+        "uri": {
+          "@value": "https://azureada.com/"
+        }
+      },
+      {
+        "@type": "Identity",
+        "label": {
+          "@value": "Garrett Edmondson DREP Manifesto "
+        },
+        "uri": {
+          "@value": "https://github.com/GarrettE/CardanoDRep/blob/main/DrepManefesto.md#connect-with-me"
+        }
+      }
+    ]
+  }
+}
